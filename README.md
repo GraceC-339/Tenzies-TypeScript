@@ -1,34 +1,47 @@
 # Tenzies Game 🎲
 
-A fun dice game built with React and TypeScript! Roll the dice until all show the same number.
-![Tenzies Game Screenshot](images/tenzies-screenshot1.png)
-![Tenzies Game Screenshot](images/tenzies-screenshot2.png)
+A **fun and addictive dice game** built with **React** and **TypeScript**!  
 
-## Features
+🎯 Roll the dice until all show the **same number** – but with strategy and luck on your side! 🍀
 
-- Interactive dice rolling
-- Click to hold dice
-- Win celebration with confetti
-- Responsive design
-- TypeScript for type safety
+<p align="center">
+  <img src="images/tenzies-screenshot1.png" alt="Tenzies Game Screenshot 1" width="400"/>
+  &nbsp;
+  <img src="images/tenzies-screenshot2.png" alt="Tenzies Game Screenshot 2" width="400"/>
+</p>
 
-## How to Play
+---
 
-1. Roll the dice
-2. Click dice to "hold" them at their current value
-3. Keep rolling until all dice show the same number
-4. Celebrate your win!
+## ✨Features
 
-## Technologies Used
+- 🎲 **Interactive dice rolling**
+- ✋ **Click to hold dice**
+- 🎉 **Win celebration with confetti**
+- 📱 **Responsive design** 
+- 🛡️ **TypeScript-powered** for safer code
 
-- React
-- TypeScript
-- Vite
-- CSS
+---
 
-## Getting Started
+## 🕹️ How to Play
+
+1. 🔁 Click **Roll** to roll all dice  
+2. 🧊 Click on a die to **hold** it at its current value  
+3. 🔄 Keep rolling until **all dice match**
+4. 🎊 **You win!** Enjoy the confetti party!
+
+---
+
+## 🛠️ Built With
+
+- ⚛️ React  
+- 🧠 TypeScript  
+- ⚡ Vite  
+- 🎨 CSS  
+
+---
+
+## 🚀 Getting Started
 
 ```bash
 npm install
 npm run dev
-```
