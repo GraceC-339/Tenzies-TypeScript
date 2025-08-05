@@ -1,6 +1,8 @@
 # Tenzies Game 🎲
 
 A fun dice game built with React and TypeScript! Roll the dice until all show the same number.
+![Tenzies Game Screenshot](images/tenzies-screenshot1.png)
+![Tenzies Game Screenshot](images/tenzies-screenshot2.png)
 
 ## Features
 
